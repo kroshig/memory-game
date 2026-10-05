@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <polygon points="20,40 14,16 38,26" fill="#c084fc"/>
+  <polygon points="80,40 86,16 62,26" fill="#c084fc"/>
+  <circle cx="50" cy="58" r="32" fill="#c084fc"/>
+  <ellipse cx="50" cy="66" rx="14" ry="10" fill="#9333ea"/>
+  <circle cx="45" cy="66" r="2.5" fill="#581c87"/>
+  <circle cx="55" cy="66" r="2.5" fill="#581c87"/>
+  <circle cx="38" cy="50" r="3.5" fill="#1e1b4b"/>
+  <circle cx="62" cy="50" r="3.5" fill="#1e1b4b"/>
+  <!-- Шляпа волшебника -->
+  <polygon points="50,6 30,32 70,32" fill="#312e81"/>
+  <ellipse cx="50" cy="32" rx="28" ry="6" fill="#1e1b4b"/>
+  <polygon points="50,14 52,19 57,19 53,22 55,27 50,24 45,27 47,22 43,19 48,19" fill="#fbbf24"/>
+</svg>
